@@ -44,6 +44,52 @@ gg
 Saut à la ligne "n"  
 :n
 
+## _Les modes_ ##
 
+Passer en mode commande  
+Echap  
+Passer en mode insertion  
+i ou Inser  
+Passer en mode remplacement  
+r ou Inser  
+Passer en mode visuel  
+v  
+
+## _Insertion_ ##
+
+Avant le curseur  
+i  
+Après le curseur  
+a  
+Avant la ligne  
+l  
+Après la ligne  
+A  
+Ajoute une ligne avant la ligne actuel  
+o  
+Ajoute une ligne après la ligne actuel  
+O  
+Réécrire la ligne  
+C  
+
+## _Supprimer le texte_ ##
+
+Supprimer la lettre sous le curseur  
+x  
+Supprimer la lettre à gauche du curseur  
+X  
+Supprimer la ligne  
+dd  
+Supprime le nombre de mot suivant  
+ndw  
+Supprimer le nombre de mot précédent  
+ndb  
+
+## _Plugin Manager_ ##  
+
+Installer un plugin  
+PlugInstall  
+MAJ d'un plugin  
+PlugUpdate
 
 
