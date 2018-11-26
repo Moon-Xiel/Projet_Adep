@@ -27,7 +27,7 @@ Haut
 K  
 Mot suivant  
 w
-Début du mot  
+Début du mot   
 b  
 Fin du mot  
 e  
