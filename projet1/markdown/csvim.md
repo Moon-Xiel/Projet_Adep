@@ -26,7 +26,7 @@ J
 Haut  
 K  
 Mot suivant  
-w
+w  
 Début du mot  
 b  
 Fin du mot  
