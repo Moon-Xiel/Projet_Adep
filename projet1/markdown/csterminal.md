@@ -25,7 +25,7 @@ User/Group/All
 R: lire (4)  
 W: modifier (2)  
 X: execute (1)  
-- Changer les permissins  
+- Changer les permissions  
 chmod
 
 ## _Répertoires_ ##
