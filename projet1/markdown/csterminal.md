@@ -19,58 +19,58 @@ sudo apt-get install
 
 ## _Les permissions_ ##
 
-- Ordre
+- Ordre  
 User/Group/All
-- Types
-R: lire (4)
-W: modifier (2)
-X: execute (1)
-- Changer les permissins
+- Types  
+R: lire (4)  
+W: modifier (2)  
+X: execute (1)  
+- Changer les permissins  
 chmod
 
 ## _Répertoires_ ##
 
-- Montre le répertoire actuel
+- Montre le répertoire actuel  
 pwd
-- Créer un répertoire
+- Créer un répertoire  
 mkdir nom
-- Se déplacer dans un dossier 
+- Se déplacer dans un dossier   
 cd nom
-- Aller dans un répertoire précécent 
+- Aller dans un répertoire précécent   
 cd -
-- Aller dans un répertoire parent
+- Aller dans un répertoire parent  
 cd ..
 
 ## _Fichiers_ ##
 
-- Créer un fichier
+- Créer un fichier  
 touch nom.format
-- Liste les fichiers
+- Liste les fichiers  
 ls
-- Liste les fichiers + cachés
+- Liste les fichiers + cachés  
 ls -a
-- Liste les fichiers + droits 
+- Liste les fichiers + droits   
 ls -lh
-- Liste les fichiers (cachés) + droits
+- Liste les fichiers (cachés) + droits  
 ls -la
 
 ## _Déplacer/Renommer/Supprimer_ ##
 
-- Déplacer un fichier vers un dossier
+- Déplacer un fichier vers un dossier  
 mv nom.format document/
-- Déplacer un dossier dans un dossier 
+- Déplacer un dossier dans un dossier   
 mv dossier1 dossier2
-- Renommer un fichier
+- Renommer un fichier  
 mv anciennom.format nouveaunom.format
-- Supprimer un fichier
+- Supprimer un fichier  
 rm nom
-- Supprimer un fichier avec demande de confirmation
+- Supprimer un fichier avec demande de confirmation  
 rm -i nom
-- Supprimer un fichier sans demande de confirmation 
+- Supprimer un fichier sans demande de confirmation   
 rm -f nom 
-- Supprimer un dossier vide
+- Supprimer un dossier vide  
 rmdir nom 
-- Supprimer un dossier et son contenu
+- Supprimer un dossier et son contenu  
 rmdir -r nom
 
 
