@@ -3,17 +3,17 @@
 ## _Les bases_ ##
 
 Sauvegarder  
-:w
-Sauvegarder & quitter 
-:wq
-Quitter (sans changement) 
-:q
-Quitter sans sauvegarder
-:q!
-Annuler le dernier changement
-u
-Annuler tous les changements de la ligne 
-U 
+:w  
+Sauvegarder & quitter   
+:wq  
+Quitter (sans changement)   
+:q  
+Quitter sans sauvegarder  
+:q!  
+Annuler le dernier changement  
+u  
+Annuler tous les changements de la ligne   
+U   
 
 ## _Déplacements_ ##
   
