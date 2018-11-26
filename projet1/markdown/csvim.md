@@ -15,6 +15,24 @@ u
 Annuler tous les changements de la ligne   
 U   
 
+## _Les modes_ ##                                                                                                 
+
+Passer en mode commande                                                                                           
+Echap                                                                                                             
+Passer en mode insertion                                                                                          
+i ou Inser                                                                                                        
+Passer en mode remplacement                                                                                       
+r ou Inser                                                                                                        
+Passer en mode visuel                                                                                             
+v
+
+## _Plugin Manager_ ##                                                                                            
+
+Installer un plugin                                                                                               
+PlugInstall                                                                                                       
+MAJ d'un plugin                                                                                                   
+PlugUpdate                     
+
 ## _Déplacements_ ##
   
 Gauche  
@@ -26,9 +44,13 @@ J
 Haut  
 K  
 Mot suivant  
-w  
+w
+Espace vide suivant le mot  
+W    
 Début du mot  
 b  
+Espace vide précédent le mot  
+B  
 Fin du mot  
 e  
 Début de la ligne  
@@ -44,17 +66,6 @@ gg
 Saut à la ligne "n"  
 :n
 
-## _Les modes_ ##
-
-Passer en mode commande  
-Echap  
-Passer en mode insertion  
-i ou Inser  
-Passer en mode remplacement  
-r ou Inser  
-Passer en mode visuel  
-v  
-
 ## _Insertion_ ##
 
 Avant le curseur  
@@ -67,8 +78,7 @@ Après la ligne
 A  
 Ajoute une ligne avant la ligne actuel  
 o  
-Ajoute une ligne après la ligne actuel  
-O  
+Ajoute une ligne après la ligne actuel    
 Réécrire la ligne  
 C  
 
@@ -84,12 +94,4 @@ Supprime le nombre de mot suivant
 ndw  
 Supprimer le nombre de mot précédent  
 ndb  
-
-## _Plugin Manager_ ##  
-
-Installer un plugin  
-PlugInstall  
-MAJ d'un plugin  
-PlugUpdate
-
 
