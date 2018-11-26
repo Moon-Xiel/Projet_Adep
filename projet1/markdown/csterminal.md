@@ -2,19 +2,19 @@
 
 ## _Les bases_ ##
 
-- Lancer le terminal
+- Lancer le terminal  
 CTRL ALT t 
-- Fermer le terminal
+- Fermer le terminal  
 exit
-- Nettoyer le terminal
+- Nettoyer le terminal  
 clear ou CTRL l
-- Auto completion
+- Auto completion  
 TAB
-- Répète la dernière commande 
+- Répète la dernière commande   
 !!
-- Annule 
+- Annule   
 CTRL C 
-- Installer 
+- Installer   
 sudo apt-get install
 
 ## _Les permissions_ ##
