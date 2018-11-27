@@ -3,18 +3,18 @@
 ## _Configuration_ ##
 
 Ajouter un nom
-git config --global user.name "[nom]"  
+> git config --global user.name "[nom]"  
 Ajouter un email  
-git config --global user.email "[monemail]"
+> git config --global user.email "[monemail]"
 
 ## _Créer un nouveau repo_ ##
 
 cd [nomdudossier]
-git init
+> git init
 
 ## _Cloner un repo déjà existant_ ##
 
-git clone [url]
+> git clone [url]
 
 ## _Ajouter ou Retirer des fichiers_ ##
 
