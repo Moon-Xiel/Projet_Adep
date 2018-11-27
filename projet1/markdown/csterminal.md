@@ -1,4 +1,4 @@
-# **Cheat Sheet Terminal débutant/basique** (version Française)# :star2:
+## **Cheat Sheet Terminal débutant/basique** (version Française) ## 
 
 ## _Les bases_ ##
 
