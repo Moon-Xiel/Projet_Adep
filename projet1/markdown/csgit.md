@@ -25,45 +25,45 @@ Indexer un fichier
 `git add [nomdufichier]`  
 
 Ajouter tous les fichiers du dossier dans l'index
-git add .
+`git add .`
 
 Supprimer un fichier
-git rm [nom.format]
+`git rm [nom.format]`
 
 ## _Les "commit"_ ##
 
 Commit tous les fichiers de l'index dans le répertoire local
-git commit -m "message"
+`git commit -m "message"`
 
 ## _Historique_ ##
 
 Montrer tous les commit
-git log
+`git log`
 Montrer qui a modifié le fichier 
-git blame [nom.format]	
+`git blame [nom.format]`	
 
 ## _Les dépôts à distance_ ##
 
 Lister les dépôts à distance
-git remote 
+`git remote` 
 Ajouter un dépôt à distance et lui donner un nom
-git remote add [nom] [url]
+`git remote add [nom] [url]`
 Afficher les infos d'un dépôt distant
-git remote show [nom]
+`git remote show [nom]`
 
 
 ## _Les branches_ ##
 
 Liste des branches  
-git branch  
+`git branch`  
 Changer de branche  
-git checkout [nomdelabranche]
+`git checkout [nomdelabranche]`
 Créer une branche  
-git branch [nom]  
+`git branch [nom]`  
 Supprimer une branche  
-git branch -d [nom]
+`git branch -d [nom]`
 
 ## _Les fusions_ ##
 Fusionner une branche dans la branche actuel  
-git merge [nomdelabranche]
+`git merge [nomdelabranche]`
 
