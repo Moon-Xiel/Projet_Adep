@@ -1,4 +1,4 @@
-# **Cheat Sheet Terminal** (version Française) #
+# **Cheat Sheet Terminal débutant/basique** (version Française) #
 
 ## _Les bases_ ##
 
@@ -15,7 +15,7 @@ TAB
 - Annule   
 CTRL C 
 - Installer   
-sudo apt-get install
+sudo apt-get install [nom]  
 
 ## _Les permissions_ ##
 
@@ -28,7 +28,7 @@ X: execute (1)
 - Changer les permissions  
 chmod
 
-## _Répertoires_ ##
+## _Les répertoires_ ##
 
 - Montre le répertoire actuel  
 pwd
