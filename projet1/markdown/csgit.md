@@ -3,26 +3,26 @@
 ## _Configuration_ ##
 
 Ajouter un nom
-> git config --global user.name "[nom]"  
+` git config --global user.name "[nom]"`
 Ajouter un email  
-> git config --global user.email "[monemail]"
+` git config --global user.email "[monemail]`
 
 ## _Créer un nouveau repo_ ##
 
 cd [nomdudossier]
-> git init
+` git init`
 
 ## _Cloner un repo déjà existant_ ##
 
-> git clone [url]
+` git clone [url]`
 
 ## _Ajouter ou Retirer des fichiers_ ##
 
 Montrer le status du fichier et son index  
-git status
+`git status`
 
-Indexer un fichier
-git add [nomdufichier]
+Indexer un fichier  
+`git add [nomdufichier]`  
 
 Ajouter tous les fichiers du dossier dans l'index
 git add .
