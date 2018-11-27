@@ -15,7 +15,7 @@ TAB
 - Annule   
 CTRL C 
 - Installer   
-sudo apt-get install [nom]  
+`sudo apt-get install [nom]`  
 
 ## _Les permissions_ ##
 
